@@ -1,0 +1,240 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#questionario{
+    background-color: #121A20;
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+}
+#menu{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    background: #121A20;
+    box-shadow: 0px 16px 32px rgba(0, 0, 0, 0.24);
+    height: 48px;
+    width: 100%;
+    border-radius: 0px;
+
+}
+
+.guiadoviajante{
+    position: absolute;
+    left: 9.58%;
+    right: 83%;
+    top: 29.17%;
+    bottom: 31.96%;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14.2171px;
+    line-height: 19px;
+    color: #FFFFFF;
+}
+.smiles{
+    position: absolute;
+    left: 17.8%;
+    right: 79.17%;
+    top: 29.17%;
+    bottom: 31.96%;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14.2171px;
+    line-height: 19px;
+    color: #EB7F02;
+}
+.home{
+    position: absolute;
+    left: 63.89%;
+    right: 32.78%;
+    top: 25%;
+    bottom: 25%;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #ADB5BD;
+}
+.aprender{
+    position: absolute;
+    left: 69.44%;
+    right: 25.35%;
+    top: 25%;
+    bottom: 25%;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #ADB5BD;
+}
+.objetivos{
+    position: absolute;
+    left: 76.88%;
+    right: 14.86%;
+    top: 25%;
+    bottom: 25%;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #ADB5BD;
+}
+.dicas{
+    position: absolute;
+    left: 87.36%;
+    right: 9.51%;
+    top: 25%;
+    bottom: 25%;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #ADB5BD;
+}
+.container1{
+    position: absolute;
+width: 1187px;
+height: 672px;
+left: 116px;
+top: 104px;
+
+background: rgba(8, 10, 11, 0.85);
+border-radius: 5px; 
+}
+.questionarioTitle{
+    position: absolute;
+    width: 465px;
+    height: 36px;
+    left: 216px;
+    top: 186px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    color: #FFFFFF;
+}
+.questionarioParagraph{
+    position: absolute;
+    width: 465px;
+    height: 120px;
+    left: 222px;
+    top: 252px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #F8F9FA;
+}
+.questionarioTitle1{
+    position: absolute;
+    width: 465px;
+    height: 36px;
+    left: 216px;
+    top: 402px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    color: #FFFFFF;
+}
+.questionarioParagraph1{
+    position: absolute;
+    width: 465px;
+    height: 120px;
+    left: 222px;
+    top: 468px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #F8F9FA;
+}
+.questionarioTitle2{
+    position: absolute;
+    width: 485px;
+    height: 96px;
+    left: 656px;
+    top: 180px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 64px;
+    line-height: 96px;
+    color: #FFFFFF;
+}
+.questionarioSubtitle2{
+    position: absolute;
+    width: 537px;
+    height: 36px;
+    left: 666px;
+    top: 267px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    color: #FFFFFF;
+}
+.questionarioParagraph2{
+    position: absolute;
+    width: 465px;
+    height: 50px;
+    left: 666px;
+    top: 347px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #F8F9FA;
+}
+.cadastroButton{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 11px 40px;
+    position: absolute;
+    width: 300px;
+    height: 44px;
+    left: 663px;
+    top: 464px;
+    border: 2px solid #EB7F02;
+    box-sizing: border-box;
+    border-radius: 5px; 
+    background: transparent;
+}
+.cadastroButton1{
+    position: static;
+    width: 220px;
+    height: 22px;
+    left: 40px;
+    top: 11px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #EB7F02;
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 1;
+    margin: 0px 10px;
+}

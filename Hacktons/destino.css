@@ -1,0 +1,149 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#destino{
+    background-color: #121A20;
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+}
+.titleDestino{
+    position: absolute;
+    width: 400px;
+    height: 48px;
+    left: 138px;
+    top: 95px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 48px;
+    color: #EB7F02;
+}
+.paragraphDestino{
+    position: absolute;
+    width: 299px;
+    height: 48px;
+    left: 138px;
+    top: 147px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #F8F9FA;
+}
+.recife{
+    position: absolute;
+    width: 165px;
+    height: 165px;
+    left: 538px;
+    top: 179px;
+    background: rgba(18, 26, 32, 0.6);
+    border-radius: 5px;
+}
+.sancho{
+    position: absolute;
+    width: 165px;
+    height: 165px;
+    left: 738px;
+    top: 179px;
+    background: rgba(18, 26, 32, 0.6);
+    border-radius: 5px;
+}
+.arraial{
+    position: absolute;
+    width: 165px;
+    height: 165px;
+    left: 938px;
+    top: 179px;
+    background: rgba(18, 26, 32, 0.6);
+    border-radius: 5px;
+}
+.salvador{
+    position: absolute;
+    width: 165px;
+    height: 165px;
+    left: 1138px;
+    top: 179px;
+    background: rgba(18, 26, 32, 0.6);
+    border-radius: 5px;
+}
+.recife1{
+    position: absolute;
+    width: 165px;
+    height: 165px;
+    left: 538px;
+    top: 379px;
+    background: rgba(18, 26, 32, 0.6);
+    border-radius: 5px;
+}
+.sancho1{
+    position: absolute;
+    width: 165px;
+    height: 165px;
+    left: 738px;
+    top: 379px;
+    background: rgba(18, 26, 32, 0.6);
+    border-radius: 5px;
+}
+.arraial1{
+    position: absolute;
+    width: 165px;
+    height: 165px;
+    left: 938px;
+    top: 379px;
+    background: rgba(18, 26, 32, 0.6);
+    border-radius: 5px;
+}
+.salvador1{
+    position: absolute;
+    width: 165px;
+    height: 165px;
+    left: 1138px;
+    top: 379px;
+    background: rgba(18, 26, 32, 0.6);
+    border-radius: 5px;
+}
+.carro{
+    position: absolute;
+    width: 449.74px;
+    height: 244.05px;
+    left: 53px;
+    top: 301px;
+}
+.finalizarButton{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 11px 40px;
+    position: absolute;
+    width: 147px;
+    height: 46px;
+    left: 1156px;
+    top: 592px;
+    background: #EB7F02;
+    border-radius: 5px;
+}
+.finalizarButton1{
+    position: static;
+    width: 67px;
+    height: 24px;
+    left: 40px;
+    top: 11px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 10px;
+}

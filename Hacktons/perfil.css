@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#perfil{
+    background-color: #121A20;
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+}
+.titleperfil{
+    position: absolute;
+    width: 400px;
+    height: 144px;
+    left: 138px;
+    top: 95px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 48px;
+    color: #EB7F02;
+}
+.paragraphperfil{
+    position: absolute;
+    width: 358px;
+    height: 48px;
+    left: 138px;
+    top: 253px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #F8F9FA;
+}
+.container{
+    position: absolute;
+    width: 470px;
+    height: 510px;
+    left: 768px;
+    top: 107px;
+}
+.imagemPerfil1{
+    position: absolute;
+    width: 361px;
+    height: 542px;
+    left: 829px;
+    top: 76px;
+}

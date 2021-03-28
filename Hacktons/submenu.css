@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#submenu{
+    background-color: #121A20;
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+}
+.titlesubHome{
+    position: absolute;
+    width: 365px;
+    height: 144px;
+    left: 538px;
+    top: 140px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 48px;
+    color: #EB7F02;
+}
+.paragraphsubHome{
+    position: absolute;
+    width: 357px;
+    height: 48px;
+    left: 546px;
+    top: 298px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #F8F9FA
+}
+.primarysubButton{
+    background: transparent;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 11px 40px;
+    position: absolute;
+    width: 357px;
+    height: 44px;
+    left: 546px;
+    top: 394px;
+    border: 2px solid #EB7F02;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+.subButton1{
+    position: static;
+    width: 277px;
+    height: 22px;
+    left: 40px;
+    top: 11px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #EB7F02;
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 1;
+    margin: 0px 10px;
+}
+.secondarysubButton{
+    background: transparent;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 11px 40px;
+    position: absolute;
+    width: 357px;
+    height: 44px;
+    left: 546px;
+    top: 462px;
+    border: 2px solid #EB7F02;
+    box-sizing: border-box;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 11px 40px;
+    position: absolute;
+    width: 357px;
+    height: 44px;
+    left: 546px;
+    top: 462px;
+    border: 2px solid #EB7F02;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+.subButton2{
+    position: static;
+    width: 277px;
+    height: 22px;
+    left: 40px;
+    top: 11px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #EB7F02;
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 1;
+    margin: 0px 10px;
+}
+    
