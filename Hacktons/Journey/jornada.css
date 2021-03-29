@@ -24,10 +24,6 @@
 
 .guiadoviajante{
     position: absolute;
-    left: 9.58%;
-    right: 83%;
-    top: 29.17%;
-    bottom: 31.96%;
     font-family: Nunito;
     font-style: normal;
     font-weight: bold;
@@ -37,10 +33,6 @@
 }
 .smiles{
     position: absolute;
-    left: 17.8%;
-    right: 79.17%;
-    top: 29.17%;
-    bottom: 31.96%;
     font-family: Nunito;
     font-style: normal;
     font-weight: bold;
@@ -50,10 +42,6 @@
 }
 .home{
     position: absolute;
-    left: 63.89%;
-    right: 32.78%;
-    top: 25%;
-    bottom: 25%;
     font-family: Poppins;
     font-style: normal;
     font-weight: normal;
@@ -63,10 +51,6 @@
 }
 .aprender{
     position: absolute;
-    left: 69.44%;
-    right: 25.35%;
-    top: 25%;
-    bottom: 25%;
     font-family: Poppins;
     font-style: normal;
     font-weight: normal;
@@ -76,10 +60,6 @@
 }
 .objetivos{
     position: absolute;
-    left: 76.88%;
-    right: 14.86%;
-    top: 25%;
-    bottom: 25%;
     font-family: Poppins;
     font-style: normal;
     font-weight: normal;
@@ -89,10 +69,6 @@
 }
 .dicas{
     position: absolute;
-    left: 87.36%;
-    right: 9.51%;
-    top: 25%;
-    bottom: 25%;
     font-family: Poppins;
     font-style: normal;
     font-weight: normal;
