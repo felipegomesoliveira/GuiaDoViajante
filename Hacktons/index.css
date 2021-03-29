@@ -54,12 +54,9 @@
     background: #EB7F02;
     border-radius: 5px;
 }
-.button1{
-    position: static;
+.textButton{
     width: 220px;
     height: 24px;
-    left: 40px;
-    top: 10px;
 
     font-family: Poppins;
     font-style: normal;
@@ -67,16 +64,7 @@
     font-size: 16px;
     line-height: 24px;
 
-    display: flex;
-    align-items: center;
-    text-align: center;
-
     color: #FFFFFF;
-
-    flex: none;
-    order: 0;
-    flex-grow: 1;
-    margin: 0px 10px;
 }
     
 .imagem{

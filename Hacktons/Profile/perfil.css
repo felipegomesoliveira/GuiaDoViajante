@@ -39,12 +39,42 @@
     width: 470px;
     height: 510px;
     left: 768px;
-    top: 107px;
+    top:30px;
 }
 .imagemPerfil1{
-    position: absolute;
+    position: relative;
+    bottom: 40px;
     width: 361px;
     height: 542px;
-    left: 829px;
-    top: 76px;
+}
+.buttonLike{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 11px 40px;
+
+    position:relative;
+    left:20px;
+    top:400px;
+    left:330px;
+
+    background: #EB7F02;
+    border-radius: 5px;
+}
+
+.buttonDeslike{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 11px 40px;
+
+    position:relative;
+    right: 160px;
+    top:350px;
+
+
+    background: #EB7F02;
+    border-radius: 5px;
 }
